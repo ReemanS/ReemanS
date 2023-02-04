@@ -1,5 +1,7 @@
-Hi! I’m @ReemanS </br>
-I’m looking to collaborate on some projects that are beginner-friendly, preferably those that use React & NextJS. </br>
+<p> Currently in 🔥tutorial hell🔥 </p>
+
+
+<p> I am willing to collaborate on some projects that are somewhat beginner-friendly, preferably those that use React & NextJS </p>
 
 
 <!---
