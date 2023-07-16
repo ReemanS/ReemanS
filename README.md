@@ -1,4 +1,4 @@
-<p> I am willing to collaborate on some projects that are somewhat beginner-friendly, preferably those that use React & NextJS </p>
+<p> 3rd year IT student from WVSU </p>
 
 
 <!---
