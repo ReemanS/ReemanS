@@ -1,5 +1,13 @@
 <p align="center"> 3rd year IT student from WVSU </p>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,dart,flutter" />
+  </a>
+</p>
+
+
 <div align="center">
   
 ![ReemanS's Stats](https://github-readme-stats.vercel.app/api?username=ReemanS&theme=gotham&show_icons=true&hide_border=true&count_private=true)
