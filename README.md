@@ -1,4 +1,4 @@
-<p align="center"> 4rd year IT student from WVSU </p>
+<p align="center"> 4th year IT student from WVSU </p>
 
 
 <p align="center">
