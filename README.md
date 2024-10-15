@@ -1,5 +1,5 @@
 <p align="center"> 4th year IT student from WVSU </p>
-<p align="center" > https://reemans.vercel.app/ </p>
+<p align="center" > https://reemans.xyz </p>
 &nbsp;
 
 <p align="center">
