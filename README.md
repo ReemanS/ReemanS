@@ -1,4 +1,4 @@
-<p align="center"> 4th year IT student from WVSU </p>
+<p align="center"> WVSU BSIT Graduate and Aspiring Software Engineer </p>
 <p align="center"> 📌 Iloilo, Philippines</p>
 <p align="center"> 🌐 https://reemans.xyz </p>
 &nbsp;
