@@ -1,8 +1,7 @@
-<p align="center"> Software and Maps </p>
-<p align="center"> 📌 Iloilo, Philippines</p>
-<p align="center"> 🎓 WVSU Graduate</p>
+<p align="center"> Maps and Apps </p>
+<p align="center"> 📍 Iloilo, Philippines</p>
+<p align="center"> 🎓 WVSU '25</p>
 <p align="center"> 🌐 https://reemans.xyz </p>
-&nbsp;
 
 <!---
 ReemanS/ReemanS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
